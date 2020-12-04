@@ -1,0 +1,1 @@
+# get_cpu_gpu_details
