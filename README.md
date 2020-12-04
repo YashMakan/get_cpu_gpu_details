@@ -1,4 +1,4 @@
-# GET CPU AND GPU DETAILS WITHOUT ADMIN ACCESS  
+# GET CPU AND GPU DETAILS WITHOUT ADMIN ACCESS 🎉  
 
 step1: Turn off the antivirus protection (I don't know how to do that by automation)  
 step2: Install this repository = https://github.com/YashMakan/get_cpu_gpu_details  
